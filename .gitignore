@@ -1,0 +1,13 @@
+.dub
+docs.json
+__dummy.html
+*.o
+*.obj
+/binarysubtraction
+/core
+/d-linter.ini
+/dub.selections.json
+/log.txt
+/__test__library__
+/test.txt
+/test.txt.out
